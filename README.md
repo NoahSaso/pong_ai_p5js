@@ -5,7 +5,7 @@ Simple pong game used to train an AI using the [NEAT](https://en.wikipedia.org/w
 
 Mess with it here:
 
-[http://htmlpreview.github.io/?https://github.com/NoahSaso/pong_ai_p5js/blob/master/index.html](http://htmlpreview.github.io/?https://github.com/NoahSaso/pong_ai_p5js/blob/master/index.html)
+[https://noahsaso.github.io/pong_ai_p5js](https://noahsaso.github.io/pong_ai_p5js)
 
 Instructions
 ============
